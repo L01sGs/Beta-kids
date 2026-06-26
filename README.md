@@ -467,9 +467,9 @@
 
                     <div class="char-card">
                         <p style="color: #ff00ff;">♡ MEUS SHIPS FAVORITUS (NÃO ME JULGEM KKK):</p>
-                        <p>1. <span class="highlight-blue">John</span> x <span class="highlight-pink">Terezi</span>: mto bunitu eles flando no pesterchum!! msm ela sndo mei sinistra e ele mei bobao axo q combinan d+!! :3</p>
-                        <p>2. <span class="highlight-red">Dave</span> x <span class="highlight-green">Karkat</span>: o kra todo ironico d oclinhos e a mina fofa cientista d saia kkkk o oposto se atrae total bixo!! mto fofis s2 B-)</p>
-                        <p>3. <span class="highlight-red">Equius</span> x <span class="highlight-blue">Nepeta</span>: kkkk brinks... ou nao??? imagina o karkat xingando o john e o john rindo da cara dele kkkk ia se mto comedia xD XD</p>
+                        <p>1. <span class="highlight-blue">John</span> x <span class="highlight-pink">Terezi</span>: mto bunitu eles flando de nerdise!! msm ela sndo mei loka e ele mei bobao axo q combinan d+!! :3</p>
+                        <p>2. <span class="highlight-red">Dave</span> x <span class="highlight-green">Karkat</span>: o kra todo ironico d oclinhos e o kra todu revoltad0 kkkk o oposto se atrae total bixo!! mto fofis s2 B-)</p>
+                        <p>3. <span class="highlight-red">Equius</span> x <span class="highlight-blue">Nepeta</span>: kkkk brinks... ou nao??? imagina a nepeta atakando o Equius e rindo da cara delekkkk ia se mto comedia xD XD</p>
                     </div>
                     
                     <p>oq vcs axam dsses bglh?? comentem ae em baxo c vcs axam q faz sentido ou c usei mta m@conha de troll kkkkkk xD XD</p>
