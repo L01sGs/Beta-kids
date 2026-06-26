@@ -1,4 +1,4 @@
-!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="pt-BR">
 <head>
     <meta charset="UTF-8">
@@ -11,7 +11,7 @@
     <script src="https://cdn.jsdelivr.net/npm/canvas-confetti@1.6.0/dist/confetti.browser.min.js"></script>
 
     <style>
-        /* Configurações Globais e Fundo Estendido de Nuvens */
+        /* Configurações Globais e Fundo Estendido d Nuvens */
         body {
             margin: 0;
             padding: 0;
@@ -33,7 +33,7 @@
             padding: 30px 20px;
             background-color: rgba(255, 255, 255, 0.85);
             border-bottom: 6px double #ff0000;
-            position: relative; /* Necessário para posicionar o mini Gamzee */
+            position: relative;
         }
 
         .logo-top {
@@ -59,7 +59,7 @@
             display: block;
         }
 
-        /* --- 2. LAYOUT EM DUAS COLUNAS (Estilo Blog antigo) --- */
+        /* --- 2. LAYOUT EM DUAS COLUNAS --- */
         .main-layout {
             max-width: 1000px;
             margin: 30px auto;
@@ -81,7 +81,7 @@
             gap: 20px;
         }
 
-        /* Caixas de Conteúdo (Estilo Janela Antiga) */
+        /* Caixas de Conteúdo */
         .post-container, .widget-container {
             background-color: rgba(255, 255, 255, 0.95);
             border: 3px solid #ff0000;
@@ -169,7 +169,7 @@
             text-align: center;
         }
 
-        .karkat-img, .dave-img {
+        .karkat-img, .dave-img, .bro-gif {
             max-width: 180px;
             height: auto;
             image-rendering: pixelated;
@@ -234,16 +234,14 @@
             border: 4px ridge #ff0000;
         }
 
-        /* --- 6. EASTER EGG E ANIMAÇÕES EXTRAS --- */
-        
-        /* Gamzee Escondido no Header */
+        /* --- 6. EASTER EGG E ANIMAÇÕES --- */
         .hidden-gamzee {
             position: absolute;
             bottom: 8px;
             right: 12px;
             width: 16px;
             height: 16px;
-            opacity: 0.15; /* Escondido de forma sutil */
+            opacity: 0.15;
             cursor: pointer;
             transition: opacity 0.3s ease, transform 0.2s ease;
             image-rendering: pixelated;
@@ -255,7 +253,6 @@
             transform: scale(1.3);
         }
 
-        /* Animação Estilo MSPA/Sburb Shake */
         @keyframes sburbShake {
             0% { transform: translate(1px, 1px) rotate(0deg); }
             10% { transform: translate(-1px, -2px) rotate(-1deg); }
@@ -297,7 +294,7 @@
                 <div class="post-content">
                     <p>MEU DEUS DO CEU!!!! vc nao ta entendendo!!!!! 8D 8D</p>
                     <p>tipo... vc PRECISA conhecer essa webcomic q ta todo mundo comentando na internet!!!! o nome eh HOMESTUCK e eh do msm cara q fez Jailbreak e Problem Sleuth (o andrew hussie, vulgo mestre supremo kkkk)!!!!</p>
-                    <p>eh basicamente a historia d um mlk de 13 anos chamado <span class="highlight-blue">John Egbert</span> (ele curte uns filmes mt ruins d terror e magica kk bem nerd) q ta trancado no quarto esperando um jogo de computador mt foda e misterioso sair em versao Beta... o nome do jogo eh <strong>Sburb</strong>!!!!</p>
+                    <p>eh basicamente a historia d um mlk de 13 anos chamado <span class="highlight-blue">John Egbert</span> (ele curte uns filmes mt ruins d terror e magica kk bem nerd) q ta trancado no quarto esperando um jogo d computador mt foda e misterioso sair em versao Beta... o nome do jogo eh <strong>Sburb</strong>!!!!</p>
                     <p>so q qnd ele e os amigos dele da internet (a <span class="highlight-pink">Rose</span>, o <span class="highlight-red">Dave</span> e a <span class="highlight-green">Jade</span>) comecam a jogar... o jogo simplesmente INTERAGE WITH A REALIDADE!!!! O_O tipo... eles conseguem mover os moveis do quarto uns dos outros usando o mouse do PC!!! mto bizarro dorgas mano kkkkkk</p>
                    
                     <a href="https://www.homestuck.com" target="_blank" class="official-link">
@@ -342,7 +339,7 @@
                             
                             <p><span class="tc-sollux">SOLLUX:</span> u radker do grupo!! tem 4 oio de cores difetente (2 azul e 2 vermei) e fala ingasgado kkkk eli digita tdu botando u numero "2" nas palavra pq eli curte binarismo e duplisidade B-)</p>
                             
-                            <p><span class="tc-karkat">KARKAT:</span> u cara mas estressado da internet toda!!!1! eli odeia tudu e fik digitando TUDO EM CAPS LOCK GRITANDO COMSIGO MESMO kkkk >:O u sangue deli e vermelho mutante mas e segredo kkk tsundere total</p>
+                            <p><span class="tc-karkat">KARKAT:</span> u cara mas estressado da internet toda!!!1! eli odeia tudu e fik digitando TUDO EM CAPS LOCK GRITANDO COMSIGO MESMO kkkk &gt;:O u sangue deli e vermelho mutante mas e segredo kkk tsundere total</p>
                             
                             <p><span class="tc-nepeta">NEPETA:</span> a otaku dos gatinhu :33 ela mora numa caverna fasendo uns roleplay d caçadora mto dorgas e fica xipando todo mundo nu mural dela!! comesa as frase cum :33 e bota trocadinho d gato kkk mto fofis</p>
                             
@@ -380,9 +377,9 @@
                         <div class="kids-text-list">
                             <p><span class="highlight-blue">JOHN EGBERT:</span> u lider brincalhão do grupo :B ele adora piadas ruins, magicas de salao e eh viciado em filmes trash (tipo con air e nicolas cage kk mto tosco). ele eh super gente boa mas meio lerdo x_x</p>
                             
-                            <p><span class="highlight-pink">ROSE LALONDE:</span> a mina gótica intelectual q gosta d ler livros gigantes de terror e tecer cachecol kkkk &gt;:D ela escreve de um jeito todo formal e chique pra caramba e dpois vira uma bruxa mto loka das trevas (grimdark mds q medo)!!!</p>
+                            <p><span class="highlight-pink">ROSE LALONDE:</span> a mina gótica intelectual q gosta d ler livros gigantes de terror e tecer cachecol kkkk &gt;:D ela escreve de um jeito todo formal e chique pra caramba e dpois vira um bruxa mto loka das trevas (grimdark mds q medo)!!!</p>
                             
-                            <p><span class="highlight-red">DAVE STRIDER:</span> u dj super cool das rimas rapidas de rap B-) ele eh ironico 24 horas por dia e nunca tira os oclinhos de sol nem fodendo!!! ele coleciona coisas mortas e espadas e nao bota nenhuma pontuaçao nos textos kkkk</p>
+                            <p><span class="highlight-red">DAVE STRIDER:</span> u dj super cool das rimas rapidas d rap B-) ele eh ironico 24 horas por dia e nunca tira os oclinhos de sol nem fodendo!!! ele coleciona coisas mortas e espadas e nao bota nenhuma pontuaçao nos textos kkkk</p>
                             
                             <p><span class="highlight-green">JADE HARLEY:</span> a garota cientista q mora numa ilha deserta com o cachorro gigante dela chamado becquerel!!! :Q ela tem narcolepsia e dorme do nada, adora plantas e usa um rifle gigante pra atirar em monstros mto foda!!!!</p>
                         </div>
@@ -409,6 +406,73 @@
                         </div>
                         <p style="font-size:9px; text-align:center; color:#555;">olha o estilo do garoto tocando as pick-up mds kkkk mto descolado xD</p>
                     </div>
+                </div>
+            </article>
+
+            <article class="post-container">
+                <h2 class="post-title homestuck-shake">!!! UPDATE TOTALMENTE FINO: OS GUARDS / PROTETORES DA GALERA!! !!!</h2>
+                
+                <div class="post-content">
+                    <p>genteee dpois de falar do mestre das rimas dave strider nois n pode fikar sem falar de kem cuida dssa glr!!! ou tenta né kkkkkk vo posta aki a foto secreta dles q axei perdida num forum bem obscuro flw xd</p>
+                    
+                    <div class="image-box">
+                        <img src="https://share.google/CTyo3IngpFy9eBjVb" alt="Os Protetores brabos" class="kids-full-img">
+                        <p>▲ OS COROAS Q MANDAM NO PEDAÇO!!! ▲</p>
+                    </div>
+
+                    <hr style="border: 1px dashed #ff0000; margin: 20px 0;">
+
+                    <p>separa ae q cada um tem seu responsavel bem bizarro kkkk se liga nas cores de cada um pra n se perder:</p>
+
+                    <div class="char-card">
+                        <p><span class="highlight-blue">**[PAI EGBERT]**</span> o kra eh LITERALMENTE vidrado em tortas e akeles palhaços super assustadores??¿¿ mt eskesito mano!! msm assim o quarto dele eh xeio dsses boneco medonho mas ele eh moh bom pai e fika dando uns presente pro john (pena q o john axa mto paia as coisa kkkkkk) sempre usa terno e gravata msm dentro de ksa!!</p>
+                    </div>
+
+                    <div class="char-card">
+                        <p><span class="highlight-pink">**[MÃE LALONDE]**</span> a mae da rose eh mó fina, rica e vive bebendo uns drink maluko numa taça o dia todo... a relaçao dlas eh pura ironia e mto passivo-agressiva kkkkk se comunicam por puro sarcasmo e uns papo de mago das trevas e magias ocultas!! 0_0</p>
+                    </div>
+
+                    <div class="char-card">
+                        <p><span class="highlight-green">**[VOVÔ HARLEY]**</span> o vovo ja faleceu mas ele era um p*ta explorador brabo d+ q empalhou um monte de bixo esquisito na ksa dela na ilha!! dexa o Becquerel (o dog com poders espaciais mt apelao) tomando conta de tdo pra ela n fikar sozinha!!</p>
+                    </div>
+
+                    <hr style="border: 1px dashed #ff0000; margin: 20px 0;">
+
+                    <blockquote style="background-color: #efefef; border: 3px solid #ff0000; padding: 15px; margin: 20px 0; box-shadow: 4px 4px 0px #cccccc;">
+                        <h3 class="homestuck-shake" style="color: #ff0000; margin-top: 0; font-size: 11px; text-align: center;">B-) O CARA MAIS MEGA ULTRA SUPREMO E IRADO DA INTERNET: BRO STRIDER!!! ⟵⁠(⁠o⁠_⁠O⁠)</h3>
+                        
+                        <p>pqp glr agr papo serio de verdade aki.... o q eh o protetor do <span class="highlight-red">**Dave**</span>???? o lendario **BRO STRIDER** eh simplemente o auge do estilo, do SWAG total e da ironia moderna!!!!! B)</p>
+                        
+                        <p>o kra vive com akeles oculos escuros pontudos icónicos que NUNCA SAEM DO ROSTO nem fud*ndo!! ele eh um DJ profissional super foda, faz umas batalha de rima com ironia suprema e coleciona uns boneco de ventriloco mt bizarro (os lendarios Cal Puppets) so de zueira pela pura ironia kkkkkkk</p>
+                        
+                        <p>e o mais insano de tudo: o kra treina o dave fazendo **BATALHA DE ESPADA NINJA REAL NO TETO DO APARTAMENTO** la em houston, texas!!! isso msm o kra corre tanto q desafia as lei da gravidade bixo!!! nao tem absolutamente NINGUEM mais descolado, frio, calculista e maneiro na blogosfera inteira q o Bro. o cara exala a pura essencia dos anos 2000 mt mitologico, impossivel n axar ele fodastico!!!!! $滑</p>
+                        
+                        <div class="image-box">
+                            <img class="bro-gif" src="https://share.google/2fLkTU6oPNk9DpRCw" alt="Bro Strider Gif">
+                        </div>
+                    </blockquote>
+
+                </div>
+            </article>
+
+            <article class="post-container">
+                <h2 class="post-title homestuck-shake">POSTED: 25/10/2009 ==&gt; MINHAS TEORIAS LOCAS E SHIPS!!!1! XD </h2>
+                <div class="post-content">
+                    <p>Oww galera!!! dpois d fla do Bro ontem fikei ate de madruga lendo a comic de nv e mtas ideia fuderam minha cabeça kkkk @_@ prsisa mto bota as teoria e meus casal fofis aki!!</p>
+                    
+                    <div class="char-card">
+                        <p style="color: #6a0dad;">(⁠・⁠o⁠・⁠) TEORIA CONSPIRATORIA DO MAL:</p>
+                        <p>mano e se o jogo <span class="highlight-purple">Sburb</span> n for soh um jogo mas tipu... uma parada d criar universos?? kkk moh dorgas mano @_@ axo q o mundo vai acaba d vdd na comic e eles vao te q vira deuses!! anotem ae dpois n flão q n avisei!!1!</p>
+                    </div>
+
+                    <div class="char-card">
+                        <p style="color: #ff00ff;">♡ MEUS SHIPS FAVORITUS (NÃO ME JULGEM KKK):</p>
+                        <p>1. <span class="highlight-blue">John</span> x <span class="highlight-pink">Terezi</span>: mto bunitu eles flando no pesterchum!! msm ela sndo mei sinistra e ele mei bobao axo q combinan d+!! :3</p>
+                        <p>2. <span class="highlight-red">Dave</span> x <span class="highlight-green">Karkat</span>: o kra todo ironico d oclinhos e a mina fofa cientista d saia kkkk o oposto se atrae total bixo!! mto fofis s2 B-)</p>
+                        <p>3. <span class="highlight-red">Equius</span> x <span class="highlight-blue">Nepeta</span>: kkkk brinks... ou nao??? imagina o karkat xingando o john e o john rindo da cara dele kkkk ia se mto comedia xD XD</p>
+                    </div>
+                    
+                    <p>oq vcs axam dsses bglh?? comentem ae em baxo c vcs axam q faz sentido ou c usei mta m@conha de troll kkkkkk xD XD</p>
                 </div>
             </article>
 
@@ -444,10 +508,8 @@
 
     <script>
         document.getElementById('gamzeeSecret').addEventListener('click', function() {
-            // Paleta de cores baseada nas castas de sangue de Homestuck
             const bloodCastes = ['#2b0057', '#ff0000', '#008282', '#416600', '#a1a100', '#ff007f'];
             
-            // Explosão de confetes do lado esquerdo
             confetti({
                 particleCount: 75,
                 angle: 60,
@@ -456,7 +518,6 @@
                 colors: bloodCastes
             });
             
-            // Explosão de confetes do lado direito
             confetti({
                 particleCount: 75,
                 angle: 120,
