@@ -1,5 +1,3 @@
-Aqui está o código HTML atualizado com o link direto do novo gif do **Bro Strider** inserido na seção correta:
-
 ```html
 <!DOCTYPE html>
 <html lang="pt-BR">
