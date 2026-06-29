@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<<!DOCTYPE html>
 <html lang="pt-BR">
 <head>
     <meta charset="UTF-8">
@@ -328,7 +328,7 @@
             <article class="post-container">
                 <h2 class="post-title homestuck-shake">POSTED: 30/10/2009 ==&gt; GUIA DOS TROLLS!!!1! FICOU MT TENSO XD</h2>
                 <div class="post-content">
-                    <p>Ow galere resolvi cria esse post especial pa explica de um jeito resumidu kem eh kem nesa rassa de chifrudo d alternia kkkk x_x fika vendo o textao q escrevi e a img com todos eles do lado!!!</p>
+                    <p>Ow galere resolvi cria esse post especial pa explica de um jeito resumidu kem eh kem nesa rassa de chifrudo d alternia kkk x_x fika vendo o textao q escrevi e a img com todos eles do lado!!!</p>
                     
                     <div class="trolls-section">
                         
@@ -386,7 +386,7 @@
                         
                         <div class="kids-image-box">
                             <p style="color:#ff0000; font-size:9px; margin-bottom:10px;">[ OS QUATRO UNIDOS NO SBURB !! ]</p>
-                            <img class="kids-full-img" src="https://pbs.twimg.com/media/G-1oIq0X0AAWgJP.png" alt="Beta Kids Homestuck">
+                            <img class="kids-full-img" src="https://i.redd.it/beta-kids-my-designs-v0-5eynj1fju9id1.jpg?width=3238&format=pjpg&auto=webp&s=4ccf024ef1ab332621cc256d317586d42dd9be76" alt="Beta Kids Homestuck">
                             <p style="font-size:8px; color:#777; margin-top:8px;">olha os 4 juntos prontos pra quebrar tudo na sessao do jogo!!! 8D</p>
                         </div>
                     </div>
@@ -417,8 +417,8 @@
                     
                     <div class="image-box">
                         <img src="https://share.google/CTyo3IngpFy9eBjVb" alt="Os Protetores brabos" class="kids-full-img">
-                        <p>▲ OS COROAS Q MANDAM NO PEDAÇO!!! ▲</p>
-                    </div>
+                        <p>▲ OS COROAS Q MANDAM NO PEDAÇO!!! ▲</
+                        </div>
 
                     <hr style="border: 1px dashed #ff0000; margin: 20px 0;">
 
@@ -429,7 +429,7 @@
                     </div>
 
                     <div class="char-card">
-                        <p><span class="highlight-pink">**[MÃE LALONDE]**</span> a mae da rose eh mó fina, rica e vive bebendo uns drink maluko numa taça o dia todo... a relaçao dlas eh pura ironia e mto passivo-agressiva kkkkk se comunicam por puro sarcasmo e uns papo de mago das trevas e magias ocultas!! 0_0</p>
+                        <p><span class="highlight-pink">**[MÃE LALONDE]**</span> a mae da rose eh mó fina, rica e vive bebendo uns drink maluko numa taça o dia todo... a relaçao dlas eh pura ironia e mto passivo-agressiva kkkkk se comunicam por puro sarcasmo e uns papo d mago das trevas e magias ocultas!! 0_0</p>
                     </div>
 
                     <div class="char-card">
@@ -467,7 +467,7 @@
 
                     <div class="char-card">
                         <p style="color: #ff00ff;">♡ MEUS SHIPS FAVORITUS (NÃO ME JULGEM KKK):</p>
-                        <p>1. <span class="highlight-blue">John</span> x <span class="highlight-pink">Terezi</span>: mto bunitu eles flando de nerdise!! msm ela sndo mei loka e ele mei bobao axo q combinan d+!! :3</p>
+                        <p>1. <span class="highlight-blue">John</span> x <span class="highlight-pink">Terezi</span>: mto bunitu eles flando d nerdise!! msm ela sndo mei loka e ele mei bobao axo q combinan d+!! :3</p>
                         <p>2. <span class="highlight-red">Dave</span> x <span class="highlight-green">Karkat</span>: o kra todo ironico d oclinhos e o kra todu revoltado kkkk o oposto se atrae total bixo!! mto fofis s2 B-)</p>
                         <p>3. <span class="highlight-red">Equius</span> x <span class="highlight-blue">Nepeta</span>: kkkk brinks... ou nao??? imagina a nepeta atakando o Equius e rindo da cara delekkkk ia se mto comedia xD XD</p>
                     </div>
