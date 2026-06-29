@@ -458,7 +458,7 @@
             <article class="post-container">
                 <h2 class="post-title homestuck-shake">POSTED: 25/10/2009 ==&gt; MINHAS TEORIAS LOCAS E SHIPS!!!1! XD </h2>
                 <div class="post-content">
-                    <p>Oww galera!!! dpois d fla do Bro ontem fikei ate de madruga lendo a comic de nv e mtas ideia fuderam minha cabeça kkkk @_@ prsisa mto bota as teoria e meus casal fofis aki!!</p>
+                    <p>Oww galera!!! dpois d fla do Bro ontem fikei ate de madruga lendo a comic de nv e mtas ideia ferraram minha cabeça kkkk @_@ prsisa mto bota as teoria e meus casal fofis aki!!</p>
                     
                     <div class="char-card">
                         <p style="color: #6a0dad;">(⁠・⁠o⁠・⁠) TEORIA CONSPIRATORIA DO MAL:</p>
@@ -472,7 +472,7 @@
                         <p>3. <span class="highlight-red">Equius</span> x <span class="highlight-blue">Nepeta</span>: kkkk brinks... ou nao??? imagina a nepeta atakando o Equius e rindo da cara delekkkk ia se mto comedia xD XD</p>
                     </div>
                     
-                    <p>oq vcs axam dsses bglh?? comentem ae em baxo c vcs axam q faz sentido ou c usei mta m@conha de troll kkkkkk xD XD</p>
+                    <p>oq vcs axam dsses bglh?? comentem ae em baxo c vcs axam q faz sentido ou c usei mta sl1me de troll kkkkkk xD XD</p>
                 </div>
             </article>
 
