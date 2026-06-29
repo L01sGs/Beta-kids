@@ -1,4 +1,3 @@
-```html
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
@@ -346,7 +345,7 @@
                             
                             <p><span class="tc-kanaya">KANAYA:</span> a troll mas xiq estilosa, curte costura, moda e vira um vampiro q brilha nu escuro (rainbow drinker mds kkk) ela DIGITA COMEÇANDO TODA PALAVRA COM MAIUSCULA PRA PARECER CHIQUE!!!</p>
                             
-                            <p><span class="tc-terezi">TEREZI:</span> a mina sega mto loca q xera e lambe a tela pra ver as cores kkkk xD ela gosta d dragao, usa oclinhos vermelho e digita cum numeros d led tipu 43551M mto nerd hackeadora d lan house</p>
+                            <p><span class="tc-terezi">TEREZI:</span> a mina sega mto loca q xera e lambe a tela pra ver as cores kkkk xD ela gosta d dragao, usa oclinhos vermelho e digita cum numeros de led tipu 43551M mto nerd hackeadora d lan house</p>
                             
                             <p><span class="tc-vriska">VRISKA:</span> a pirada dos 8 oio e dos dado magico de RPG :::;) ela e ultra crueeel e fudeu a vida d metade dos amigo kkkk ela vive trocando as letra ou a silaba "oito" pelo num 8 mto chata mas amo ela lol</p>
                             
@@ -426,7 +425,7 @@
                     <p>separa ae q cada um tem seu responsavel bem bizarro kkkk se liga nas cores de cada um pra n se perder:</p>
 
                     <div class="char-card">
-                        <p><span class="highlight-blue">**[PAI EGBERT]**</span> o kra eh LITERALMENTE vidrado em tortas e akeles palhaços super assustadores??¿¿ mt eskesito mano!! msm assim o quarto dele eh xeio dsses boneco medonho mas ele eh moh bom pai e fika dando uns presente pro john (pena q o john axa mto paia as coisa kkkkkk) sempre usa terno e gravata msm dentro d ksa!!</p>
+                        <p><span class="highlight-blue">**[PAI EGBERT]**</span> o kra eh LITERALMENTE vidrado em tortas e akeles palhaços super assustadores??¿¿ mt eskesito mano!! msm assim o quarto dele eh xeio dsses boneco medonho mas ele eh moh bom pai e fika dando uns presente pro john (pena q o john axa mto paia as coisa kkkkkk) sempre usa terno e gravata msm dentro de ksa!!</p>
                     </div>
 
                     <div class="char-card">
@@ -449,7 +448,7 @@
                         <p>e o mais insano de tudo: o kra treina o dave fazendo **BATALHA DE ESPADA NINJA REAL NO TETO DO APARTAMENTO** la em houston, texas!!! isso msm o kra corre tanto q desafia as lei da gravidade bixo!!! nao tem absolutamente NINGUEM mais descolado, frio, calculista e maneiro na blogosfera inteira q o Bro. o cara exala a pura essencia dos anos 2000 mt mitologico, impossivel n axar ele fodastico!!!!! $滑</p>
                         
                         <div class="image-box">
-                            <img class="bro-gif" src="https://media2.giphy.com/media/v1.Y2lkPTZjMDliOTUyaWkxYXMwN3NwNXAxdms1b2d0MnBuM3Fmcjg2MjQwNGN5azc5NW56ZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGBPJbo4PGoZjvFQQP/200.gif" alt="Bro Strider Gif">
+                            <img class="bro-gif" src="https://share.google/2fLkTU6oPNk9DpRCw" alt="Bro Strider Gif">
                         </div>
                     </blockquote>
 
@@ -459,7 +458,7 @@
             <article class="post-container">
                 <h2 class="post-title homestuck-shake">POSTED: 25/10/2009 ==&gt; MINHAS TEORIAS LOCAS E SHIPS!!!1! XD </h2>
                 <div class="post-content">
-                    <p>Oww galera!!! dpois d fla do Bro ontem fikei ate de madruga lendo a comic de nv e mtas ideia ferraram minha cabeça kkkk @_@ prsisa mto bota as teoria e meus casal fofis aki!!</p>
+                    <p>Oww galera!!! dpois d fla do Bro ontem fikei ate de madruga lendo a comic de nv e mtas ideia fuderam minha cabeça kkkk @_@ prsisa mto bota as teoria e meus casal fofis aki!!</p>
                     
                     <div class="char-card">
                         <p style="color: #6a0dad;">(⁠・⁠o⁠・⁠) TEORIA CONSPIRATORIA DO MAL:</p>
@@ -470,10 +469,10 @@
                         <p style="color: #ff00ff;">♡ MEUS SHIPS FAVORITUS (NÃO ME JULGEM KKK):</p>
                         <p>1. <span class="highlight-blue">John</span> x <span class="highlight-pink">Terezi</span>: mto bunitu eles flando d nerdise!! msm ela sndo mei loka e ele mei bobao axo q combinan d+!! :3</p>
                         <p>2. <span class="highlight-red">Dave</span> x <span class="highlight-green">Karkat</span>: o kra todo ironico d oclinhos e o kra todu revoltado kkkk o oposto se atrae total bixo!! mto fofis s2 B-)</p>
-                        <p>3. <span class="highlight-red">Equius</span> x <span class="highlight-blue">Nepeta</span>: kkkk brinks... ou nao??? imagina a nepeta arranhando o Equius e rindo da cara delekkkk ia se mto comedia xD XD</p>
+                        <p>3. <span class="highlight-red">Equius</span> x <span class="highlight-blue">Nepeta</span>: kkkk brinks... ou nao??? imagina a nepeta atakando o Equius e rindo da cara delekkkk ia se mto comedia xD XD</p>
                     </div>
                     
-                    <p>oq vcs axam dsses bglh?? comentem ae em baxo c vcs axam q faz sentido ou c usei mta slimea de troll kkkkkk xD XD</p>
+                    <p>oq vcs axam dsses bglh?? comentem ae em baxo c vcs axam q faz sentido ou c usei mta m@conha de troll kkkkkk xD XD</p>
                 </div>
             </article>
 
@@ -531,5 +530,3 @@
 
 </body>
 </html>
-
-```
